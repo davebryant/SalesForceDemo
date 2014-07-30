@@ -1,0 +1,6 @@
+c:\code\SalesForceDemo\SalesForceDemo\bin\Debug\SalesForceDemo.exe.config
+c:\code\SalesForceDemo\SalesForceDemo\bin\Debug\SalesForceDemo.exe
+c:\code\SalesForceDemo\SalesForceDemo\bin\Debug\SalesForceDemo.pdb
+c:\code\SalesForceDemo\SalesForceDemo\obj\Debug\SalesForceDemo.csprojResolveAssemblyReference.cache
+c:\code\SalesForceDemo\SalesForceDemo\obj\Debug\SalesForceDemo.exe
+c:\code\SalesForceDemo\SalesForceDemo\obj\Debug\SalesForceDemo.pdb
